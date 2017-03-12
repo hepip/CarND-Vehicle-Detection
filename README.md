@@ -117,5 +117,5 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 Finding the best parameter was the trickiest part. Also, the training of SVM took a lot of time. I thought its best to use GridSearchCV to find the best parameters. Saving the the best model from the one's found also helped speed up the testing process.
 
-The pipeline might fail in different conditions like rain and snow. 
+The pipeline might fail in different conditions like rain and snow. Need to speed up video creation process. 
 
