@@ -90,7 +90,7 @@ Each extracted image is resized to 64*64 size. Following which the features are 
 
 Ultimately I searched on two scales using YCrCb 3-channel HOG features plus spatially binned color and histograms of color in the feature vector, which provided a nice result.  Here are some example images:
 
-![alt text][image5]
+![alt text][image6]
 
 
 ---
@@ -107,7 +107,7 @@ I recorded the positions of positive detections in each frame of the video.  Fro
 
 Here's an example result showing the heatmap from a series of frames of video, the result of `scipy.ndimage.measurements.label()` and the bounding boxes then overlaid on the last frame of video:
 
-![alt text][image6]
+![alt text][image5]
 
 ---
 
